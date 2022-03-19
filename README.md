@@ -5,7 +5,7 @@
 - 👯 Looking forward to collaborate and work with other people that share the same interests.
 - ⚡ Hobbies: Puzzles, Video games, Tennis (Vamos Rafa💪🏽)
 
-### Connect with me:
+### Connect with me
 [![website](./img/globe-light.svg)](https://ahmad-zaki.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://ahmad-zaki.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -16,7 +16,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmad-el-kholi/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+### Languages and Tools
 <br/>
 
 <a href="https://www.python.org/"><img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /></a>
@@ -29,9 +29,13 @@
 <a href="https://pytorch.org/"><img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
-<a href="https://git-scm.com/"><img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" /></a>
+<a href="https://daringfireball.net/projects/markdown/"><img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" /></a>
 
 <br/>
 <br/>
 
 ---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
