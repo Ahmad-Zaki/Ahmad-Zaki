@@ -1,7 +1,7 @@
 ## Avid learner, Machine learning engineer
 
 - 🔭 Continuously learning.
-- 🌱 Interested in Machine learning and artificial intellegence.
+- 🌱 Interested in AI, Machine Learning, and Data Science.
 - 👯 Looking forward to collaborate and work with other people that share the same interests.
 - ⚡ Hobbies: Puzzles, Video games, Tennis (Vamos Rafa💪🏽)
 
@@ -35,6 +35,12 @@
 <br/>
 
 ---
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-zaki&show_icons=true&hide=prs&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-zaki&show_icons=true&theme=tokyonight&hide=prs&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-zaki&langs_count=5&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-zaki&langs_count=5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
