@@ -1,4 +1,4 @@
-## Avid learner, Machine learning engineer
+## Avid learner | Machine learning engineer
 
 - 🔭 Continuously learning.
 - 🌱 Interested in AI, Machine Learning, and Data Science.
