@@ -25,6 +25,10 @@
 <a href="https://numpy.org/"><img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" /></a>
 <a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" /></a>
 <a href="https://scikit-learn.org/"><img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;padding-top:5px;" /></a>
+<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="padding-right:10px;padding-top:5px;" /></a>
+<a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;padding-top:5px;" /></a>
+<a href="https://plotly.com/"><img align="left" alt="Plotly" width="26px" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.1827440fa5.svg" style="padding-right:10px;padding-top:5px;" /></a>
+<a href="https://opencv.org/"><img align="left" alt="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;padding-top:5px;" /></a>
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" /></a>
 <a href="https://pytorch.org/"><img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
