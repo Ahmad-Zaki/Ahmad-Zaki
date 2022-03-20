@@ -53,8 +53,6 @@
 - [؟K-meansمشاكل الـ Gaussian Mixture Modelsكيف تحل الـ](https://Ahmad-Zaki.github.io/%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%84-%D8%A7%D9%84%D9%80gaussian-mixture-models-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D9%80k-means/)
 - [؟Regularizationمن الـ Biasلماذا نستثني الـ](https://Ahmad-Zaki.github.io/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B3%D8%AA%D8%AB%D9%86%D9%8A-%D8%A7%D9%84%D9%80bias-%D9%85%D9%86-%D8%A7%D9%84%D9%80regularization/)
 - [؟Imbalanced Datasets كيف نتعامل مع](https://Ahmad-Zaki.github.io/imbalanced-datasets-%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9/)
-
-
 <!-- BLOG-POST-LIST:END -->
 
 <details>
